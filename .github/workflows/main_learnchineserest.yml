@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'learnChineseREST'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1C93A3B8F3074FEBBF898A41362C699A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5349087D0BE340B9A48E228EBDC32129 }}
           package: .
